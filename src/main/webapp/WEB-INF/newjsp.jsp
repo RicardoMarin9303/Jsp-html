@@ -1,0 +1,1 @@
+nombre=nombre.replaceAll("'", "\\\\'");
